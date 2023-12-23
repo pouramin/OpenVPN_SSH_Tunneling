@@ -45,8 +45,10 @@ ufw status
 ```
 ##### If your firewall is active you shoud use the following command to allow port, port can selected between 1025-65535
 ```
-ufw allow PORT-NUMBER/protcol  ufw allow 3210/tcp
+ufw allow PORT-NUMBER/protcol  
 ```
+> [!NOTE]
+> for example : ufw allow 3210/tcp
 #### Restart systemctl to apply the change
 ```
 systemctl restart sshd.service
