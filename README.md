@@ -61,7 +61,7 @@ apt update -y && apt upgrade -y
 ```
 nano install-docker.sh
 ```
-* past the commands of the [install-docker.sh](https://github.com/pouramin/openvpntunnel/install-docker.sh) to the nano install-docker.sh file, and save it using Ctrl+x
+* past the commands of the [install-docker.sh]([https://github.com/pouramin/openvpntunnel/install-docker.sh](https://github.com/pouramin/openvpntunnel/blob/main/install-docker.sh)) to the nano install-docker.sh file, and save it using Ctrl+x
 
 #### Enter the following command and press Enter
 ```
